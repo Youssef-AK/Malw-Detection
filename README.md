@@ -1,7 +1,7 @@
 ## PE-Malware Detection based on BODMAS
-![image](https://user-images.githubusercontent.com/40705538/159364901-364a9b04-04a1-4602-8afe-641a44de7818.png)
-### + PE-Malware Classifier
 ![4b5f408ae3a755878ae40be21fd7fa79](https://user-images.githubusercontent.com/40705538/162392756-9881b366-a4c2-42c8-8dd5-744bcba3c4ae.jpg)
+### + PE-Malware Classifier
+![advanced-malware-protection](https://user-images.githubusercontent.com/40705538/162392884-4d2cc37f-a37b-4d58-9bec-fd5c8433705d.jpg)
 
 BODMAS is short for Blue Hexagon Open Dataset for Malware Analysis. Dataset containing timestamped malware samples and well-curated family information for research purposes.
 The BODMAS dataset contains 57,293 malware samples and 77,142 benign samples collected from August 2019 to September 2020, with carefully curated family information 
